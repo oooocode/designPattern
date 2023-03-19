@@ -1,4 +1,4 @@
-package com.zzuli.wth.developprinciple.srp;
+package com.zzuli.wth.principle.srp;
 
 /**
  * @Author: wth
